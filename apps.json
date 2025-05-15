@@ -3,18 +3,18 @@
     "id": "StructAssist",
     "name": "STRUCT Assist",
     "repo": "Aditya-1904/struct-assist-app",
-    "latestVersion": "v1.0.1"
+    "latestVersion": "0.0.0"
   },
   {
     "id": "CADAssist",
     "name": "CAD Assist",
     "repo": "Aditya-1904/cad-assist-app",
-    "latestVersion": "main"
+    "latestVersion": "0.0.0"
   },
   {
     "id": "ProjectAssist",
     "name": "PROJECT Assist",
     "repo": "Aditya-1904/project-assist-app",
-    "latestVersion": "main"
+    "latestVersion": "0.0.0"
   }
 ]
