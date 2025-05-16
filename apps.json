@@ -12,7 +12,7 @@
     "name":          "CAD Assist",
     "repo":          "Aditya-1904/cad-assist-app",
     "branch":        "main",
-    "latestVersion": "1.0.1",
+    "latestVersion": "1.0.2",
     "releaseNotes":  "• Initial CAD tooling support"
   }
 ]
