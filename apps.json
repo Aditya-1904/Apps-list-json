@@ -16,14 +16,6 @@
     "releaseNotes":  "•some new functionality"
   },
   {
-    "id":            "Sample",
-    "name":          "Sample Assist",
-    "repo":          "Aditya-1904/cad-assist-app",
-    "branch":        "main",
-    "latestVersion": "1.0.0",
-    "releaseNotes":  "•some new sample"
-  },
-  {
     "id":            "PROJECTAssist",
     "name":          "PROJECT Assist",
     "repo":          "Aditya-1904/project-assist-app",
