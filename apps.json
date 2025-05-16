@@ -4,17 +4,23 @@
     "name": "STRUCT Assist",
     "repo": "Aditya-1904/struct-assist-app",
     "branch": "main"
+    "latestVersion": "1.0.0", 
+    "releaseNotes":  "• Added feature X\n• Fixed bug Y"  // ← new
   },
   {
     "id": "CADAssist",
     "name": "CAD Assist",
     "repo": "Aditya-1904/cad-assist-app",
     "branch": "main"
+    "latestVersion": "1.0.0", 
+    "releaseNotes":  "• Added feature X\n• Fixed bug Y"  // ← new
   },
   {
     "id": "ProjectAssist",
     "name": "PROJECT Assist",
     "repo": "Aditya-1904/project-assist-app",
     "branch": "main"
+    "latestVersion": "1.0.0", 
+    "releaseNotes":  "• Added feature X\n• Fixed bug Y"  // ← new
   }
 ]
