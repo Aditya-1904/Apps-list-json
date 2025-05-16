@@ -15,4 +15,12 @@
     "latestVersion": "1.0.2",
     "releaseNotes":  "• Initial CAD tooling support"
   }
+    {
+    "id":            "PROJECTAssist",
+    "name":          "PROJECT Assist",
+    "repo":          "Aditya-1904/project-assist-app",
+    "branch":        "main",
+    "latestVersion": "1.0.0",
+    "releaseNotes":  "• Initial outlook tooling support"
+  }
 ]
