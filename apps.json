@@ -4,16 +4,16 @@
     "name":          "STRUCT Assist",
     "repo":          "Aditya-1904/struct-assist-app",
     "branch":        "main",
-    "latestVersion": "1.0.1",
-    "releaseNotes":  "• Initial public release\n• Basic install/update workflow"
+    "latestVersion": "1.0.2",
+    "releaseNotes":  "• Initial public release\n• Basic install/updated workflow"
   },
   {
     "id":            "CADAssist",
     "name":          "CAD Assist",
     "repo":          "Aditya-1904/cad-assist-app",
     "branch":        "main",
-    "latestVersion": "1.0.4",
-    "releaseNotes":  "•some new functionality"
+    "latestVersion": "1.0.5",
+    "releaseNotes":  "• Some New Functionality"
   },
   {
     "id":            "PROJECTAssist",
@@ -21,6 +21,6 @@
     "repo":          "Aditya-1904/project-assist-app",
     "branch":        "main",
     "latestVersion": "1.0.3",
-    "releaseNotes":  "• some more new changes Initial outlook tooling support"
+    "releaseNotes":  "• Some more New changes, Initial outlook tooling support"
   }
 ]
